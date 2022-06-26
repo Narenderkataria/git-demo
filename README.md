@@ -2,7 +2,4 @@
 
 This is first line in repo
 
-
-## Ipsum Below
-
-Added ipsum 
+## Website contents
